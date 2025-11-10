@@ -1,0 +1,13 @@
+{
+    "network": {
+        "engine": "mysql",
+        "host": "localhost",
+        "port": "3306",
+        "dbname": "erp_db",
+        "user": "postgres",
+        "password": ""
+    },
+    "login": {
+        "remembered_user": "1122"
+    }
+}
